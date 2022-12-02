@@ -1,0 +1,18 @@
+
+.ejemplo{
+    width: 1250px;
+    height: 80px;
+    border: 1px solid red;
+}
+
+#parrafoInicial{
+    display: block;
+    width: 90px;
+    height: 30px;
+    cursor: pointer;
+    color: black;
+    font-size: 25px;
+    padding: 0px;
+    margin: 0px;
+    border: 1px solid cornflowerblue;
+}
